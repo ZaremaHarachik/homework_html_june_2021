@@ -1,0 +1,33 @@
+.box1 {
+    width: 600px;
+    height: 100px;
+    background-color:darkblue;
+}
+
+.box2 {
+    width: 600px;
+    height: 100px;
+    background-color: darkcyan;
+}
+
+.wrap {
+    width: 600px;
+    height: 300px;
+    display: flex;
+}
+
+.box3 {
+    width: 400px;
+    background-color:cornflowerblue;
+}
+
+.box4 {
+    width: 200px;
+    background-color: dimgray;
+}
+
+.box5 {
+    width: 600px;
+    height: 100px;
+    background-color: darkblue;
+}
